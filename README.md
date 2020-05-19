@@ -1,7 +1,7 @@
-# Einkaufsliste
-Blatt 4. OSSE AIN3 SE // 2020
 
-## Lebenslauf: Joshua Wehr
+# Blatt 4. OSSE AIN3 SE // 2020
+
+## Lebenslauf - Joshua Wehr
 
 >Student, Furtwangen, DE
 >Email: joshwehr1234@gmail.com
