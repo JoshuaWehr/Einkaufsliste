@@ -13,4 +13,5 @@
 2. 2019 - heute
 : **Informatik Fakultät**, Student mit der Vertiefung Software Engingeering.
 
+![Alt-Text] (D:\AIN3-2020\OSSE\Prakikum\Blatt4/user.jpg "Bild neutral gewählt aus Datenschutzgründen.")
 
