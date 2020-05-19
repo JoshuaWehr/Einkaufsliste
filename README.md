@@ -1,2 +1,16 @@
 # Einkaufsliste
 Blatt 4. OSSE AIN3 SE // 2020
+
+##Lebenslauf: Joshua Wehr
+
+>joshwehr1234@gmail.com
+>Student, Furtwangen, DE
+###Werdegang:
+
+1. 2016 -2018
+: **Gymnasium Freiburg**, Abitur absolviert.
+
+2. 2019 - heute
+: **Informatik Fakultät**, Student mit der Vertiefung Software Engingeering.
+
+
